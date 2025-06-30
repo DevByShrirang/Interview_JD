@@ -1,0 +1,22 @@
+7+ Jenkins cl/cd one scripting GitHub action AWS .
+
+ 
+
+DevOps
+
+Tech Stack:
+
+AWS DevOps:
+Build & Test Tools: Utilize AWS DevOps to manage and automate the build and testing processes, ensuring high-quality code and efficient workflows.
+Deployment Pipelines: Design and maintain robust deployment pipelines to streamline the release process and ensure seamless integration and delivery of applications.
+Scripting Languages:
+PowerShell: Develop and maintain scripts for automating tasks and managing AWS resources.
+Bash: Use Bash scripting for automation and management tasks in Unix-based Kubernetes environments.
+Infrastructure as Code (IaC):
+Terraform: Implement and manage infrastructure using Terraform, ensuring consistent and repeatable deployments across multiple environments.
+Mobile Applications:
+App Store Connect/Google Play: Familiarity with mobile app deployment / release process
+Fastlane (nice-to-have): Automate deployment of mobile apps to Google Play / App Store
+Proficiency in:
+AWS PowerShell, or equivalent tools: Demonstrate expertise in using these tools for managing and automating AWS resources.
+Modern Network, Security, and OAuth Protocols: Apply knowledge of contemporary network and security protocols, including OAuth, to ensure secure and efficient communication and data protection.
