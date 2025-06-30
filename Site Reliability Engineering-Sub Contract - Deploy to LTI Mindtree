@@ -1,0 +1,64 @@
+Site Reliability Engineering
+
+Design build and maintain scalable and reliable infrastructure
+
+Automate system provisioning and configuration using tools like Terraform Ansible Chef or Puppet
+
+Develop tools and scripts in Python Go Java or Bash for automation and monitoring
+
+Administer and optimize LinuxUnix systems with a strong understanding of TCPIP DNS load balancers and firewalls
+
+Implement and manage cloud infrastructure across AWS or Kubernetes
+
+Maintain and enhance CICD pipelines using tools like Jenkins ArgoCD
+
+Monitor systems using Prometheus Grafana Nagios or Datadog and respond to incidents efficiently
+
+Conduct postmortems and define SLAsSLOs for system reliability and performance
+
+Plan for capacity and performance using benchmarking tools and implement autoscaling and failover systems
+
+Observability Engineering
+
+Instrument services with relevant metrics logs and traces using OpenTelemetry Prometheus Jaeger Zipkin etc
+
+Build and manage observability pipelines using Grafana ELK Stack Splunk Datadog or Honeycomb
+
+Work with timeseries databases eg InfluxDB Prometheus and log aggregation platforms
+
+Design actionable s and dashboards to improve system observability and reduce fatigue
+
+Partner with developers to promote observability best practices and define key performance indicators KPIs
+
+Required Skills Qualifications
+
+Proven experience as an SRE or Observability Engineer in complex production environments
+
+Handson expertise in LinuxUnix systems and cloud infrastructure AWSKubernetes
+
+Strong programming and scripting skills in Python Go Bash or Java
+
+Deep understanding of monitoring logging and ing systems
+
+Experience with modern Infrastructure as Code and CICD practices
+
+Ability to analyze and troubleshoot production issues in realtime
+
+Excellent communication skills to collaborate with crossfunctional teams and stakeholders
+
+Flexibility to work in rotational shifts including night shifts and weekends as required by project demands
+
+A proactive mindset with a focus on continuous improvement and reliability
+
+Additional Requirements
+
+Excellent communication skills to collaborate with crossfunctional teams and stakeholders
+
+Flexibility to work in rotational shifts including night shifts and weekends as required by project demands
+
+A proactive mindset with a focus on continuous improvement and reliability
+
+Skills
+
+Mandatory Skills : Ansible, AWS Automation Services, AWS CloudFormation, AWS Code Pipeline, AWS CodeDeploy, AWS DevOps Services
+
