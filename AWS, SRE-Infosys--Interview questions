@@ -1,0 +1,23 @@
+#####Infosys####
+
+1) what kind of enrollment/list of resources created as part of your infrastrusture using terraform?
+2) my application needs should be in private subnet then what kind of infrastructure defined for application?
+3) when we are using RDS from the subnet to  reach the RDS YOU reach via internet or else do you have any other ways to access it privately?
+4) your application is in private subnet and you have database (RDS service) in order to reach to database from subnet which approach 
+ you follow? you route your traffic via Nat gateway or any other approaches?
+5) How do you configure vpc endpoint?
+6) what components involve to route traffic from ec2 instance to internet? which component on ec2 which will route traffic to internet
+7) Any of the developer they need an IAM role for application to access s3 bucket assume that app deployed in eks cluster so using the role. instead of accese and secret key i. they want IAM role to secure access. so while creating an aim role baasiclly we provide s3 permission get and put objects so apart from policy what other configuration you make sure in order to restrict to access only to the application.--->>trust policy
+8)private ec2 instance in 2 region (us eas1 & us-east2) and both are in private subnet how do enable comm. between two instances?
+9) what is terraform taint?
+10) What is terraform refresh? what happens when we hit this command
+11)How do you handle when changes that are made outside of terraform..in that scenario we called drift so how do you handle drift? what steps you follow?
+12)  can you explain me what are meta arguments that are in terraform and why do we use?
+13) Explain me module structure in terraform?
+14) how do you group the resources decide that let these group of resources is a one module and let othher group of resources be a another module. so on which we categaries this?
+15) What is the benifit of helm chart 
+16) Application needs an external volume whats approach we follow to get volume for your application? before deploying your application what are the things make sure in order to get the volume to the application?
+17) multiple types of volume gp2 gp3 is there so how do you configure these which kind of volume you need for your application?
+18) you inject secret to the pods and i dont want to pass secrets directly to the secrets k8 object can you explain me best practice you follow?------>>> How to get secrets from ssm 
+19) pod is crashing again and again . after repetedly attempt we will get crashloopbackoff. how do you troubleshoot?
+
