@@ -1,1 +1,28 @@
-eInfochips
+1) How we check how many ports are currrently open & communicate with other system?
+2) How to find zombie process?
+3) What is the purpose of eth0 and ethtool?
+4) Difference between TCP and UDP?
+5) Purpose of /etc/resolve.conf file
+6) Explain three way handshaking
+7) What is the IP table. explain difference between ip table and nf table
+8) diff between stateful and stateless firewall.
+9) write shell script to getting vpc peering details from all aws account for all regions- using aws cli command
+10) you have designed and configure vpc including route table and nat gw can you please elaborate what you have done.
+11) how will you calculate ip cidr for perticular vpc
+12) why we are using NAT GW
+13) AWS networking related services
+14) how can you secure DNS in route 53
+15) different routing policies in route 53
+16) what is the use of workspace
+17) How to migrate from one backend to other backend(azure to aws)
+18) Are you able to write custom modules
+19) suppose project code is present in default workspace so how can ww proceed with the workspace as as a prod and dev not default.---what kind of challenge
+20) if we want to create aws resources in 2 diff acconut at same time how can we do that
+21) high level arch of k8
+22) on eks side how we can assign permission to access perticular cluster
+23) Which service in k8 used for nwtwork management
+24) which kind of architecture currently are you working multi service / single
+25) difference between amazon eks and self managed
+26) We have 100 of nodes now cost is going on to do cost optimization what kind of troubleshooting steps and planning you will do
+27) How you have created custom dashboard
+28) write multilayer dockerfile for nodejs and python aws cdk
