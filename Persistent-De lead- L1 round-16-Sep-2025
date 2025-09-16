@@ -1,0 +1,26 @@
+while you are working as application supporr what kind of issue you faced and resolved please explain?
+write a dockerfile for java based application.
+what is docker and containerd
+you have docker image having size 2GB and you want reduce docker image size what best practices will you folow
+how do you pass env variable to docker container
+what is the diff between command and entrypoint 
+do you have experience with deployment strategy 
+How do you secure data in aws
+what is the purpose of vpc in aws
+you have design vpc arch for 2 tier application that app to be higly available and scalable how will you design your vpc architecture
+what is the diffrence between NACL and subnet
+can you tell me arch of kubernetes
+what is pod
+what is deployment
+how do you handle secrets in k8
+what is diff between secret and configmap.
+what is daemonsets in k8 --it is for monitoring or for any other purpose
+difference between deployment and statefullsets. explain with example
+suppose pod exits its memory limits what signal will send to the process
+how can you run pod on sppecific pod
+what is the difference between taint and toleartions
+can you explain the importance of state file. how do you manage state file in team env
+your team needs to make changes to existing infrastructure can you explain the process of updating the infrastructure by using the terraform and how you ensure that minimal only there is minimal disruptions during this update.
+
+
+
